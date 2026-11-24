@@ -1,0 +1,6 @@
+{
+  "name": "Lila",
+  "description": "A minimal white and lavender full-stack task management application with JWT authentication and local JSON persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
